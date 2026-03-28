@@ -1,4 +1,4 @@
-# PES2008 PS2 Editor — Import from PES6 OF
+# PES2008 PS2 Editor - Import from PES6 OF
 
 An extended version of the PES2008 PS2 Editor (based on [Compulsion's editor - GPLv3 licenced](http://www.purplehaze.eclipse.co.uk)) with support for loading PES6 PC Option Files (OF2 format) and converting them to PES2008.
 
