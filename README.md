@@ -34,7 +34,7 @@ An extended version of the PES2008 PS2 Editor (based on [Compulsion's editor - G
 ### Mass Import
 - Mass copy imports players only up to **ID 4413**, preserving PES2008 PES Shop, ML Old/Young, and ML Default slots. PES6 unused slots will not overwrite PES2008 rosters.
 - The **last 8 teams** in PES2008 (which have no PES6 equivalent) keep their original players as long as their ID is above 4413. You can import a full team over them afterward.
-- It is recommended to use a **default PES2008 OF** (or one with unedited Other Teams C) as a base for mass importing, to avoid players being registered in both the imported squad and one of the extra 8 teams. Not game-breaking — you can release them from the extra team — but a clean base is preferable.
+- It is recommended to use a **default PES2008 OF** (or one with unedited Other Teams C) as a base for mass importing, to avoid players being registered in both the imported squad and one of the extra 8 teams. Not game-breaking - you can release them from the extra team - but a clean base is preferable.
 
 ### Nationalities
 - Nationalities import correctly in general.
