@@ -24,8 +24,8 @@ An extended version of the PES2008 PS2 Editor (based on [Compulsion's editor - G
 
 | Area | Status |
 |---|---|
-| Logos, emblems, league names, stadium names, boots | ❌ Not supported |
-| Special hairstyles | ⚠️ Hit or miss - verify in-game |
+| Import PES6 Logos, emblems, league names, stadium names, boots | ❌ Not supported |
+| Import PES6 Special hairstyles | ⚠️ Hit or miss - verify in-game |
 
 ---
 
